@@ -19,3 +19,5 @@ If you are developing a production application, we recommend using TypeScript wi
 - Completed gallery project UI
 - Implemented API pagination
 - Used React hooks and Axios
+### Daily Progress
+- Minor refactor / review done today
