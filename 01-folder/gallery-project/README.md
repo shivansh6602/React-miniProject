@@ -21,3 +21,20 @@ If you are developing a production application, we recommend using TypeScript wi
 - Used React hooks and Axios
 ### Daily Progress
 - Minor refactor / review done today
+# React Learning – Day X
+
+## Topics Covered
+- useState hook
+- useEffect hook
+- Component re-rendering
+- Mapping data using Array.map()
+- Props flow (parent → child)
+
+## Key Learnings
+- State change triggers re-render
+- useEffect runs after render
+- map() is used to render lists in JSX
+- Never mutate state directly
+
+## Next Plan
+- Start building a project from tomorrow
